@@ -1,9 +1,30 @@
-## Hi there 👋
-🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+ <h1 align="center">Hi 👋, I'm Huma Hashim</h1>
+
+- 🔭 I’m currently working on modren web and app development
+- 🌱 I’m currently learning Frontend, Backend
+- 💬 Ask me anything about Anything related to front-end projects
+- 📫 How to reach me: humahashim11@gmail.com
+- 😄 My website: Coming Soon...Stay Tuned!
+- ⚡ Fun fact: I started coding with just curiosity — now it's my passion.
+  
+### Connect with me:
+<div id="badges">
+  <a href="https://github.com/huma515">
+    <img src="" alt="Github Badge"/>
+  </a>
+  
+   <a href="https://linkedin.com/huma-qureshi">
+    <img src="https://www.linkedin.com/in/huma-qureshi-47a92635b/" alt="Linkedin Badge"/>
+  </a>
+</div>
+
+### Languages and Tools:
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma,xd&perline=5)](https://skillicons.dev)
+
+![Asif Taj's GitHub stats](https://github-readme-stats.vercel.app/api?username=axiftaj&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axiftaj&theme=dark)
+
+
+<br>
+⭐️ From [axiftaj](https://github.com/axiftaj)
