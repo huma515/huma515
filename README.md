@@ -31,4 +31,4 @@
 
 
 <br>
-⭐️ From [axiftaj](https://github.com/huma515)
+⭐️ From [huma515(https://github.com/huma515)
