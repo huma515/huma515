@@ -14,7 +14,7 @@
   </a>
   
    <a href="https://www.linkedin.com/in/huma-qureshi-47a92635b/">
-    <img src="https://download.logo.wine/logo/LinkedIn/LinkedIn-Logo.wine.png" alt="Linkedin Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 
