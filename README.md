@@ -10,11 +10,11 @@
 ### Connect with me:
 <div id="badges">
   <a href="https://github.com/huma515">
-    <img src="" alt="Github Badge"/>
+    <img src="https://lthub.ubc.ca/files/2021/06/GitHub-Logo.png" alt="Github Badge"/>
   </a>
   
-   <a href="https://linkedin.com/huma-qureshi">
-    <img src="https://www.linkedin.com/in/huma-qureshi-47a92635b/" alt="Linkedin Badge"/>
+   <a href="https://www.linkedin.com/in/huma-qureshi-47a92635b/">
+    <img src="https://download.logo.wine/logo/LinkedIn/LinkedIn-Logo.wine.png" alt="Linkedin Badge"/>
   </a>
 </div>
 
