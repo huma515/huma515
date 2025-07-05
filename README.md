@@ -10,7 +10,7 @@
 ### Connect with me:
 <div id="badges">
   <a href="https://github.com/huma515">
-    <img src="https://lthub.ubc.ca/files/2021/06/GitHub-Logo.png" alt="Github Badge"/>
+   <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
   
    <a href="https://www.linkedin.com/in/huma-qureshi-47a92635b/">
