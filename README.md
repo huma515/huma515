@@ -21,7 +21,7 @@
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,github&perline=5)](https://skillicons.dev)
 
-![Asif Taj's GitHub stats](https://github-readme-stats.vercel.app/api?username=axiftaj&show_icons=true&theme=dark)
+![Huma Hashim's GitHub stats](https://github-readme-stats.vercel.app/api?username=huma515&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axiftaj&theme=dark)
 
