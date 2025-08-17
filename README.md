@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning Frontend, Backend
 - 💬 Ask me anything about Anything related to front-end projects
 - 📫 How to reach me: humahashim11@gmail.com
-- 😄 My website: Coming Soon...Stay Tuned!
 - ⚡ Fun fact: I started coding with just curiosity — now it's my passion.
   
 ### Connect with me:
